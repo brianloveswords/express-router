@@ -1,0 +1,16 @@
+{
+  "name": "express-router",
+  "description": "Router enhancements for express.",
+  "version": "0.0.1",
+  "author": "Brian J Brennan <brian@nyhacker.org>",
+  "dependencies": {
+    "express": "2.4.x"
+  }
+  "devDependencies": {
+    "vows": "0.5.x"
+  },
+  "keywords": ["router", "express"],
+  "repository": "git://github.com/brianlovesdata/express",
+  "main": "index",
+  "engines": { "node": "0.x.x" }
+}
